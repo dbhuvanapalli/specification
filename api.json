@@ -5,7 +5,7 @@
     "version": "1.0"
   },
   "paths": {
-    "/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/{providerNamespace}/{ResourceType}/{resourceName}/ResourceCreationValidate": {
+    "/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/{providerNamespace}/{resourceType}/{resourceName}/ResourceCreationValidate": {
       "post": {
         "tags": [
           "Sample"
@@ -65,7 +65,7 @@
         }
       }
     },
-    "/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/{providerNamespace}/{ResourceType}/{resourceName}": {
+    "/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/{providerNamespace}/{resourceType}/{resourceName}": {
       "put": {
         "tags": [
           "Sample"
